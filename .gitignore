@@ -5,4 +5,4 @@ __pycache__
 
 data/candidates.csv
 
-workshop_env/
+/workshop_env
