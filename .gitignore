@@ -1,2 +1,6 @@
-db_config.py
+db_config.json
+
+__pycache__
+.ipynb_checkpoints
+
 data/candidates.csv
