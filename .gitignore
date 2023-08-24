@@ -5,6 +5,10 @@ __pycache__
 
 data/candidates.csv
 
+<<<<<<< HEAD
 workshop_env/
 
 *.env
+=======
+/workshop_env
+>>>>>>> 847a2287b27e473e6654d3ed611108752e033739
