@@ -1,10 +1,8 @@
-db_config.json
-
 __pycache__/
 .ipynb_checkpoints
 
 data/candidates.csv
+db_config.json
 
 workshop_env/
-
 *.env
