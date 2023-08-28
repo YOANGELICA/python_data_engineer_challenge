@@ -4,31 +4,31 @@ It is expected to analyze, manipulate and visualize data from candidates who par
 
 ## Cómo correr el repositorio
 
-1. Clonar el repositorio 
+1. Clone the repository
 
     ```python
     git clone https://github.com/YOANGELICA/python_data_engineer_challenge
     ```
 
-2. Instalar python 3.10.11
+2. Install python 3.10.11
 
-3. Instalar Mysql Server 8.0 y crear una base de datos.
+3. Install Mysql Server 8.0 y create a database.
 
-4. Crear un entorno virtual
+4. Create a virtual environment
 
-    `python -m venv [nombre]`
+    `python -m venv env`
 
-5. Activar el entorno
+5. Activate said environment
 
-    `[nombre]/scripts/activate`
+    `env/scripts/activate`
 
-6. Instalar dependencias
+6. Install dependencies
 
     ```python
     pip install -r requirements.txt
     ```
 
-7. Crear archivo de credenciales de base de datos db_config.json con el siguiente contenido:
+7. Create database credentials file 'dg_config.json' with the following content:
 
     {
         "user":"",
@@ -37,8 +37,8 @@ It is expected to analyze, manipulate and visualize data from candidates who par
         "server": "",
         "db":""
     }
-    
-> **Nota:** Este archivo es necesario, de lo contrario, no se podrán acceder a la base de datos, si desea crear el archivo con otro nombre o ubicación, deberá cambiar la ruta de acceso al archivo en el código.
+
+> **Note:** This file is necessary, by not having it you won't be able to access the database unless you state the credentials directly (not recommended). If you choose to give it a different name or location, you must change the the access route in the code.
 > 
 
 8. Lanzar Jupyter y elegir el kernel asociado con el entorno virtual creado recientemente.
