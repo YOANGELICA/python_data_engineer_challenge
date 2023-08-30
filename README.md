@@ -2,7 +2,7 @@
 
 It is expected to analyze, manipulate and visualize data from candidates who participated in recruitment processes.
 
-## Cómo correr el repositorio
+## How to run this project
 
 1. Clone the repository
 
@@ -41,7 +41,7 @@ It is expected to analyze, manipulate and visualize data from candidates who par
 > **Note:** This file is necessary, by not having it you won't be able to access the database unless you state the credentials directly (not recommended). If you choose to give it a different name or location, you must change the the access route in the code.
 > 
 
-8. Lanzar Jupyter y elegir el kernel asociado con el entorno virtual creado recientemente.
+8. launch Jupyter and choose the kernel associated with the recently created virtual environment.
 
     ```python
     jupyter notebook
