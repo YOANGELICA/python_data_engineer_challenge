@@ -5,8 +5,9 @@ The main goal is to gather some useful insights about the tendencies in hiring p
 
 ## Tools used
 
-**Database management:** SQLAlchemy was used to make queries, create the database model and migrate the data into a MySQL database.
-**Visualization:** Pandas to store the result of the queries along with Matplotlib to generate the graphics for this repository.
+- **Database management:** SQLAlchemy was used to make queries, create the database model and migrate the data into a MySQL database.
+
+- **Visualization:** Pandas to store the result of the queries along with Matplotlib to generate the graphics for this repository.
 
 ## How to run this project
 
