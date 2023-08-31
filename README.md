@@ -19,7 +19,7 @@ The main goal is to gather some useful insights about the tendencies in hiring p
     git clone https://github.com/YOANGELICA/python_data_engineer_challenge
     ```
 
-2. Install python 3.10.11
+2. Install python 3.x
 
 3. Install Mysql Server 8.0 and create a database.
 
