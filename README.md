@@ -21,7 +21,7 @@ The main goal is to gather some useful insights about the tendencies in hiring p
 
 2. Install python 3.10.11
 
-3. Install Mysql Server 8.0 y create a database.
+3. Install Mysql Server 8.0 and create a database.
 
 4. Create a virtual environment
 
