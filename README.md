@@ -47,8 +47,8 @@ The main goal is to gather some useful insights about the tendencies in hiring p
         "db":""
     }
 
-> **Note:** This file is necessary, by not having it you won't be able to access the database unless you state the credentials directly (not recommended). If you choose to give it a different name or location, you must change the the access route in the code.
-> 
+    > **Note:** This file is necessary, by not having it you won't be able to access the database unless you state the credentials directly (not recommended). If you choose to give it a different name or location, you must change the the access route in the code.
+    > 
 
 8. Launch Jupyter and choose the kernel associated with the recently created virtual environment.
 
