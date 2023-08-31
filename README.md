@@ -1,5 +1,5 @@
 # Python Data Engineer Challenge
-In this project, we are going to analze, manipulate and visualize data from candidates who participated in recruitment processes.
+In this project, we are going to analyze, manipulate and visualize data from candidates who participated in recruitment processes.
 
 The main goal is to gather some useful insights about the tendencies in hiring processes for candidates from multiple countries. We have a randomly generated CSV file from which we will get the information from, but first, it's needed to analyze, manipulate and migrate the data to a relational database with tools like MySQL, SQLAlchemy, Pandas and Matplotlib.
 
