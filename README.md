@@ -42,12 +42,12 @@ It has 50k rows and originally contains the following columns:
 4. Create a virtual environment.
    
     ```python
-    python -m venv [your_env]`
+    python -m venv [your_env]
     ```
 6. Activate said environment
 
     ```python
-    python -m venv [your_env]`
+    [your_env]/scripts/activate
     ```
 7. Install dependencies
 
